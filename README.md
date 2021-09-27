@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jakugre
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science, mainly Machine Learning
 - 🌱 I’m currently studying Engineered Physics on Silesian Univeristy of Technologies
 - 
 
